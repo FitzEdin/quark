@@ -1,0 +1,15 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "First pon de list",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "_test"
+  },
+  "author": "fitzedin",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^25.0.0"
+  }
+}
